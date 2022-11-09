@@ -14,7 +14,7 @@
 ### 🌐 My Socials:
 
 <div id="badges">
-    <a href="">
+    <a href="https://www.linkedin.com/in/paulina-gonzalez-cantu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/paulinagzzc">
