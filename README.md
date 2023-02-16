@@ -40,6 +40,8 @@
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="webpack" alt="webpack" width="auto" height="auto"/>&nbsp;
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="auto" height="auto"/>&nbsp;
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" title="Ruby" alt="Ruby" width="auto" height="auto"/>&nbsp;
+  <img src="https://img.shields.io/badge/Rspec-CC342D?style=for-the-badge&logo=Rspec&logoColor=white" title="Rspec" alt="Rspec" width="auto" height="auto"/>&nbsp;
+  <img src="https://img.shields.io/badge/Rubocop-323330?style=for-the-badge&logo=rubocop&logoColor=red" title="Git" alt="Git" width="auto" height="auto"/>&nbsp;
 </div>
 
 ---
