@@ -2,24 +2,25 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
-<h2>
+<h1>
   Hey there welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
+</h1>
 
-#### My name is Paulina and I'm a Full-Stack Developer 👩🏻‍💻✨
+#### My name is Paulina and I'm a Full-Stack Developer based in Monterrrey, Mexico 👩🏻‍💻✨
+
+
 
 ----
 
-### 🌐 My Socials:
+### 🌐  Let's connect!
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/paulina-gonzalez-cantu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
+  
+  [![Gmail Badge](https://img.shields.io/badge/-paulinagzzc@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janssenlouisa1@gmail.com)](mailto:paulinagzzc@gmail.com)
   
 </div>
 
@@ -40,6 +41,7 @@
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="webpack" alt="webpack" width="auto" height="auto"/>&nbsp;
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="auto" height="auto"/>&nbsp;
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" title="Ruby" alt="Ruby" width="auto" height="auto"/>&nbsp;
+  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby" height="auto" />
   <img src="https://img.shields.io/badge/Rspec-CC342D?style=for-the-badge&logo=Rspec&logoColor=white" title="Rspec" alt="Rspec" width="auto" height="auto"/>&nbsp;
   <img src="https://img.shields.io/badge/Rubocop-323330?style=for-the-badge&logo=rubocop&logoColor=red" title="Git" alt="Git" width="auto" height="auto"/>&nbsp;
 </div>
@@ -52,3 +54,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulinagonzalezc&theme=dark&border_radius=9)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinagonzalezc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=paulinagonzalezc.paulinagonzalezc)
