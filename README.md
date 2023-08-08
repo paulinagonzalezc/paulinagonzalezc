@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-#### My name is Paulina and I'm a Full-Stack Developer based in Monterrrey, Mexico 👩🏻‍💻✨
+#### My name is Paulina and I'm a Full-Stack Developer based in Victoria, Canada 👩🏻‍💻✨
 
 
 
